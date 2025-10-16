@@ -34,6 +34,10 @@ colorSchema: dark
   </div>
 </div>
 
+<div class="absolute bottom-6 right-32 flex items-end">
+  <img src="/images/qr-code.png" class="w-40 h-40" />
+</div>
+
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/engineervix/oss-talk-sca-lsk" target="_blank" alt="GitHub" title="GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
